@@ -1,6 +1,6 @@
 {
   "name": "@nekowinston/create-catppuccin-port",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create the base repo for a Catppuccin port in seconds",
   "license": "MIT",
   "main": "dist/index.js",
